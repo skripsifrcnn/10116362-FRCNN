@@ -1,0 +1,3 @@
+pre-trained model dapat di download di
+
+NOTE : Simpan pre-trained model di directory root.
